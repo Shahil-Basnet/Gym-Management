@@ -98,7 +98,6 @@ public class GymGUI{
 
     //constructor for gui
     public GymGUI(){
-        System.out.println("Working directory: " + System.getProperty("user.dir"));
 
         //fonts
         try{
